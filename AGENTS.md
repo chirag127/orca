@@ -58,3 +58,9 @@ Every change must consider these areas:
 ## Git / GitHub
 
 If changing code around `git`, `gh`, source-control, or review behavior read [`docs/agents-md-refs/git-workflow.md`](./docs/agents-md-refs/git-workflow.md).
+
+# Workspace analysis
+
+Canonical fork analysis and contribution evidence live in the umbrella workspace's
+[Orca notes](../../../docs/okf/orca/index.md). Keep workspace analysis there; preserve
+this repository's upstream-native documentation and policies.
